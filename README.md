@@ -1,2 +1,2 @@
 # Aurinko-paneeli
-Aurinkoa seuraava "gimball" raspilla pythonilla koodattuna
+Iot_projektityötä varten tehtävä Aurinkoa seuraava "gimball" raspissa pythonilla koodattuna
